@@ -181,6 +181,7 @@ li{
 	position: absolute;
 	left:0;
 	top:0;
+	background:transparent;
 }
 .minbox li:nth-child(1){
 	background: url(../img/01.png) no-repeat 0 0;
